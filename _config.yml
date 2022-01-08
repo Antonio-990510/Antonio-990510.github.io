@@ -15,9 +15,9 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-KR"
 title                    : "Ankkoding"
-title_separator          : "-"
+title_separator          : 
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Daehyun Kwon"
 description              : "An amazing website."
