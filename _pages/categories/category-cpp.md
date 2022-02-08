@@ -1,7 +1,7 @@
 ---
-title: "C++"
+title: "Baekjoon"
 layout: archive
-permalink: categories/cpp
+permalink: categories/Baekjoon
 author_profile: true
 sidebar_main: true
 ---
