@@ -20,7 +20,7 @@ title                    : "앙코딩"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Daehyun Kwon"
-description              : "An amazing website."
+description              : "This is IT Blog"
 url                      : "https://Antonio-990510.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Antonio-990510/Antonio-990510.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
