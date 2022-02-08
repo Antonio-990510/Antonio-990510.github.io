@@ -7,13 +7,15 @@ main:
   - title: "Search"
     url: /search/
 
-docs:
-  - title: "Algorithm"
-    children:
-      - title: "Baekjoon"
-        url: /Baekjoon/
-      - title: "Programmers"
-        url: /Programmers/
+# docs:
+#   - title: "Algorithm"
+#     children:
+#       - title: "Baekjoon"
+#         url: /Baekjoon/
+#       - title: "Programmers"
+#         url: /Programmers/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
